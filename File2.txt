@@ -1,7 +1,9 @@
-Code to implement CR1
+1. Code to implement CR1
 
-Change for testing stash
+2. Change for testing stash
 
-Change to local master to check push
+3. Change to local master to check push
 
-Change by teammate on remote
+4. Change by teammate on remote
+
+5. Change to test rebase on remote repo by teammate
