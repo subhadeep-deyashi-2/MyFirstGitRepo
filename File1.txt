@@ -7,3 +7,7 @@ Change : To test logout feature
 Change : To fix bug1
 
 Change : To test 3-way merge hence this change by teammate for some feature
+
+Change : To fix bug1
+
+Change : To fix bug2
