@@ -5,3 +5,5 @@ Change : to implement login feature and update some code
 Change : to test logout feature 
 
 Change : to fix bug1
+
+Change : to fix bug2
