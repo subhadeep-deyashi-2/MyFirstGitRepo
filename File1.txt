@@ -1,7 +1,9 @@
 Hello World !!
 
-Change : to implement login feature and update some code
+Change : To implement login feature and update some code
 
-Change : to test logout feature 
+Change : To test logout feature 
 
-Change : to fix bug1
+Change : To fix bug1
+
+Change : To test 3-way merge hence this change by teammate for some feature
